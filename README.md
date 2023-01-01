@@ -11,9 +11,9 @@
  
  el ejercicio se realizo en los legunjes de programación:
 
-java --> java -jar ejercicio.jar
-python --> python ejercicio.py
-golang --> go runs ejercicio.go
-node js --> node ejercicio.js
-c++ --> make main.cpp --> ./main
+- java --> java -jar ejercicio.jar
+- python --> python ejercicio.py
+- golang --> go runs ejercicio.go
+- node js --> node ejercicio.js
+- c++ --> make main.cpp --> ./main
  
